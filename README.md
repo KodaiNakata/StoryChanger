@@ -1,0 +1,2 @@
+# StoryChanger
+スマホアプリ「StoryChanger」のリポジトリ
