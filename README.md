@@ -1,6 +1,9 @@
 # StoryChanger
 スマホアプリ「StoryChanger」のリポジトリ
 
+# ゲームのジャンル
+アクション
+
 # 開発環境
 - Windows10
 - VisualStudio2019
