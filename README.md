@@ -1,4 +1,4 @@
-# StoryChanger
+# 概要
 スマホアプリ「StoryChanger」のリポジトリ
 
 # ゲームのジャンル
